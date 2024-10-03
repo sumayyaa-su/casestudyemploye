@@ -1,0 +1,37 @@
+/* .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: brown;
+  }
+   */
+  /* .container-fluid {
+    margin: 20px;
+    width: 10px;
+    border: 1px solid #cf1a1a;
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 0 0 10px rgba(10, 201, 71, 0.1);
+  }
+  .nav{
+    background-color:#410808;
+  } */
+   body{
+    background-color: rgb(84, 176, 157);
+   }
+  .card-body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: beige;
+
+    
+}
+/* form{
+    max-width: 400px;
+    margin: 0 auto;
+    background-color:rgb(21, 162, 77);
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(107, 199, 96, 0.1);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+} */
